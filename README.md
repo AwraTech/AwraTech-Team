@@ -1,4 +1,4 @@
-# 👋 Welcome to ChainTech
+# 👋 Welcome to AwraTech
 
 **ChainTech** is a collaborative tech team specializing in building modern and professional websites for businesses and startups. We focus on clean design, responsive layouts, and reliable performance to help our clients succeed online.
 
@@ -22,4 +22,4 @@
 
 ## 🌐 Get in Touch
 
-- **Email:** chaintech2025@gmail.com
+- **Email:** awratechnologiesgmail.com
