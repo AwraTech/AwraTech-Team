@@ -22,4 +22,4 @@
 
 ## 🌐 Get in Touch
 
-- **Email:** awratechnologiesgmail.com
+- **Email:** awratechnologies@gmail.com
